@@ -1,4 +1,4 @@
-# Active-ETF
+# Active ETF
 ## Review paper of "The Active World of Passive Investing"
 The Active World of Passive Investing(2021)에 구현되어 있는
 Table, Figure 들을 한국 시장데이터에 적용해보았습니다.
